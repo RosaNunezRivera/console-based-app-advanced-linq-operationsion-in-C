@@ -1,1 +1,1 @@
-# Lab-ConsoleBasedApp-AdvancedLINQOperationsinC#
+# ConsoleBasedApp-AdvancedLINQOperationsinC#
